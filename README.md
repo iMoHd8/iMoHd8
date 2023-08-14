@@ -94,8 +94,8 @@
 <h2 align="right">Top Projects 🖥</h2>
 
 <p>
-<a href="https://github.com/iMohd8/Movies_Industry_Analysis"><img width="430" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=Movies_Industry_Analysis&theme=tokyonight&hide_border=true" alt="custom-icon-badges"></a>
-<a href="https://github.com/iMohd8/Sentiment-Analysis-of-WorldCup2022-Tweets"><img width="430" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=Sentiment-Analysis-of-WorldCup2022-Tweets&theme=tokyonight&hide_border=true" alt="custom-icon-badges"></a>
+<a href="https://github.com/iMohd8/Movies_Industry_Analysis"><img width="400" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=Movies_Industry_Analysis&theme=tokyonight&hide_border=true" alt="custom-icon-badges"></a>
+<a href="https://github.com/iMohd8/Sentiment-Analysis-of-WorldCup2022-Tweets"><img width="400" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=Sentiment-Analysis-of-WorldCup2022-Tweets&theme=tokyonight&hide_border=true" alt="custom-icon-badges"></a>
 </p>
 
 
