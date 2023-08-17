@@ -82,7 +82,7 @@
 <div align="center">
   <img width="400" src="https://readmestats.999857.xyz/api?username=iMohd8&theme=tokyonight&rank_icon=github&hide_border=true">
   <img width="400" src="http://github-readme-streak-stats.herokuapp.com/?user=iMohd8&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=iMohd8&layout=donut&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="BlackDagger007" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=iMohd8&layout=donut&show_icons=true&theme=tokyonight&hide_border=true" alt="iMoHd8" />
 </p>
 </div>
 
@@ -94,8 +94,8 @@
 <h2 align="right">Top Projects 🖥</h2>
 
 <p>
-<a href="https://github.com/iMohd8/Movies_Industry_Analysis"><img width="400" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=Movies_Industry_Analysis&theme=tokyonight&hide_border=true" alt="custom-icon-badges"></a>
-<a href="https://github.com/iMohd8/Sentiment-Analysis-of-WorldCup2022-Tweets"><img width="400" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=Sentiment-Analysis-of-WorldCup2022-Tweets&theme=tokyonight&hide_border=true" alt="custom-icon-badges"></a>
+<a href="https://github.com/iMohd8/Movies_Industry_Analysis"><img width="400" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=Movies_Industry_Analysis&theme=tokyonight" alt="iMoHd8"></a>
+<a href="https://github.com/iMohd8/Sentiment-Analysis-of-WorldCup2022-Tweets"><img width="400" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=Sentiment-Analysis-of-WorldCup2022-Tweets&theme=tokyonight" alt="iMoHd8"></a>
 </p>
 
 
