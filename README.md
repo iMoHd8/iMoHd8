@@ -94,8 +94,8 @@
 <h2 align="right">Latest Projects 🖥</h2>
 
 <p>
-<a href="https://github.com/iMohd8/Movies_Industry_Analysis"><img width="400" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=CodeClause-Internship&theme=tokyonight" alt="iMoHd8"></a>
-<a href="https://github.com/iMohd8/Sentiment-Analysis-of-WorldCup2022-Tweets"><img width="400" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=The-Spark-Internship&theme=tokyonight" alt="iMoHd8"></a>
+<a href="https://github.com/iMoHd8/CodeClause-Internship"><img width="400" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=CodeClause-Internship&theme=tokyonight" alt="iMoHd8"></a>
+<a href="https://github.com/iMoHd8/The-Spark-Internship"><img width="400" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=The-Spark-Internship&theme=tokyonight" alt="iMoHd8"></a>
 </p>
 
 
