@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mohammed.</h1>
-<h3 align="center">Machine Learning Engineer | Data Analyst </h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
 <br>
 
@@ -94,7 +94,7 @@
 <h2 align="right">Latest Projects 🖥</h2>
 
 <p>
-<a href="https://github.com/iMoHd8/CodeClause-Internship"><img width="400" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=CodeClause-Internship&theme=tokyonight" alt="iMoHd8"></a>
+<a href="https://github.com/fellowship/travel-agent-lam"><img width="400" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=travel-agent-lam&theme=tokyonight" alt="iMoHd8"></a>
 <a href="https://github.com/iMoHd8/The-Spark-Internship"><img width="400" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=The-Spark-Internship&theme=tokyonight" alt="iMoHd8"></a>
 </p>
 
