@@ -25,11 +25,11 @@
 <p align="center">
   <em>
     Hello, I am Mohammed Mahameed a <b>Software Engineering</b> graduate <br>
-    <b>Passionate Machine Learning Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Data Analyst</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,
+    <b>Passionate Machine Learning Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp
     <br>who is <b>obsessed</b> with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
   <br><br>
-  <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b>
+  <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i> ✨ </b>
 </p>
 <br>
 <hr>
@@ -41,8 +41,8 @@
 - 🔭 I’m currently on a journey to build **great** things
 - 🌱 I’m currently learning about deep learning
 - 👯 I’m looking to collaborate with any Open - Source data science projects
-- 💬 Ask me about **Machine learning and Data Analysis**
-- 👨‍💻 Know everything about me at [Mohammed Resume](https://shorturl.at/rsLY5)
+- 💬 Ask me about **Machine learning and Data Science**
+- 👨‍💻 Know everything about me at [Mohammed Resume](https://drive.google.com/file/d/1oR87skf3BP6wXb-kCw_S9feYRb3VOeSM/view?usp=drive_link)
 - 📫 Reach me out at **iMohd8@hotmail.com**
 </div>
 <br><br>
@@ -94,7 +94,7 @@
 <h2 align="right">Latest Projects 🖥</h2>
 
 <p>
-<a href="https://github.com/fellowship/travel-agent-lam"><img width="400" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=travel-agent-lam&theme=tokyonight" alt="iMoHd8"></a>
+<a href="https://github.com/iMoHd8/CodeClause-Internship"><img width="400" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=CodeClause-Internship&theme=tokyonight" alt="iMoHd8"></a>
 <a href="https://github.com/iMoHd8/The-Spark-Internship"><img width="400" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=iMoHd8&repo=The-Spark-Internship&theme=tokyonight" alt="iMoHd8"></a>
 </p>
 
