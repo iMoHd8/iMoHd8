@@ -88,8 +88,8 @@
 
 <p>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=iMohd8&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"></a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iMoHd8&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true&theme=tokyonight" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img width="375px" src="https://github-readme-stats.vercel.app/api?username=iMohd8&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"></a>
+  <a href="https://git.io/streak-stats"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=iMoHd8&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true&theme=tokyonight" alt="GitHub Streak" /></a>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iMohd8&layout=donut&show_icons=true&theme=tokyonight&hide_border=true" alt="iMoHd8" /></a>
 </p>
 </div>
