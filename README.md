@@ -64,20 +64,20 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 <br>
 <p align="center">
-  <img src="images/Python.png" height="40" alt="Python"/>
-  <img src="images/SQL.png" height="40" alt="SQL"/>
-  <img src="images/Huggingface.png" height="40" alt="HuggingFace"/>
-  <img src="images/OpenAI.png" height="40" alt="OpenAI"/>
-  <img src="images/Langchain.png" height="40" alt="Langchain"/>
-  <img src="images/Streamlit.png" height="40" alt="Streamlit"/>
-  <img src="images/Tensorflow.png" height="40" alt="Tensorflow"/>
-  <img src="images/Pytorch.png" height="40" alt="Pytorch"/>
-  <img src="images/Pandas.png" height="40" alt="Pandas"/>
-  <img src="images/Numpy.png" height="40" alt="Numpy"/>
-  <img src="images/Sklearn.png" height="40" alt="Sklearn"/>
-  <img src="images/Git.png" height="40" alt="Git"/>
-  <img src="images/Excel.png" height="40" alt="Excel"/>
-  <img src="images/Tableau.png" height="40" alt="Tableau"/>
+  <img src="images/Python.png" height="40" width="40" alt="Python"/>
+  <img src="images/SQL.png" height="40" width="45" alt="SQL"/>
+  <img src="images/Huggingface.png" height="40" width="45" alt="HuggingFace"/>
+  <img src="images/OpenAI.png" height="40" width="45" alt="OpenAI"/>
+  <img src="images/Langchain.png" height="40" width="45" alt="Langchain"/>
+  <img src="images/Streamlit.png" height="40" width="45" alt="Streamlit"/>
+  <img src="images/Tensorflow.png" height="40" width="45" alt="Tensorflow"/>
+  <img src="images/Pytorch.png" height="40" width="45" alt="Pytorch"/>
+  <img src="images/Pandas.png" height="40" width="45" alt="Pandas"/>
+  <img src="images/Numpy.png" height="40" width="45" alt="Numpy"/>
+  <img src="images/Sklearn.png" height="40" width="45" alt="Sklearn"/>
+  <img src="images/Git.png" height="40" width="45" alt="Git"/>
+  <img src="images/Excel.png" height="40" width="45" alt="Excel"/>
+  <img src="images/Tableau.png" height="40" width="45" alt="Tableau"/>
 
 </p>
 
